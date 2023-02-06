@@ -1,0 +1,174 @@
+body {
+  display: flex;
+justify-content: center;
+  background:white;
+  
+}
+
+.box{
+    width: 900px;
+    height: 520px;
+    border-left: 2px solid #DFDFDF;
+    border-right: 2px solid #DFDFDF;
+    background: white;
+    padding: 0px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;  
+    font-size: smaller;
+    font-weight: bold;
+    border-radius: 5px;
+    
+  }
+  .heading {
+    font-size: 30px;
+    border: 2px solid #DFDFDF;
+    width: 880px;
+    height: 30px;
+    background: #F7F7F7;
+    padding: 10px;
+    border-top-left-radius:  5px;
+    border-top-right-radius:  5px;
+    position: relative;
+    right: 2px;
+  }
+.div0 {
+    width: 870px;
+    height: 400px;
+    background-color:white ;
+    margin: auto;
+}
+  .missing {
+    font-size: 20px;
+    color: #741E25;
+    width: 870px;
+    height: 40px;
+    border: 1px #F5C6CA;
+    background: #F7D7D9;
+    margin: auto;
+    border-radius: 5px;
+    
+  }
+  h5 {
+    position: relative;
+    top: 3px;
+    font-size: 12px;
+    padding: 10px;
+  }
+  .div1 {
+  display: flex;
+  gap: 10px;
+  padding-top: 20px;
+
+  }
+  .card {
+    width: 400px;
+  }
+  .cvc {
+    width: 170px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .amount {
+    width: 300px;
+   margin-left: auto;
+   margin-right: 0;
+   
+    
+  }
+  .div2 {
+    display: flex;
+    gap: 10px;
+    padding-top: 10px; 
+    }
+    .Last {
+      margin-left: auto;
+      margin-right: 0;
+    }
+    select {
+      color:grey;
+    }
+    img {
+      width: 30px;
+      height: 20px;
+    
+      position: relative;
+      top: 10px;
+      padding-left: 5px;
+      padding-right: 15px;
+    }
+    .form-check {
+      display: flex;
+      background-color: #6B757E;
+      width: 280px;
+      height: 40px;
+      border-radius: 4px;
+    
+      }
+      .div3 {
+        display: flex;
+        gap: 10px;
+        
+        }
+      .div4 {
+        display: flex;
+        }
+.div6 {
+          margin-left: auto;
+          position: relative;
+          
+          
+            }
+        .comments {
+      width: 10px;
+      height: 20px;
+    }
+  
+    textarea {
+      width: 425px;
+      height: 60px;
+    }
+    
+     
+      .div7 {
+        font-size: 10px;
+        color: grey;
+        padding-top: 5px;
+      }
+.state {
+        position: relative;
+        top: 12px;
+      }
+
+select {
+  height: 22px;
+  position: relative;
+  top: 17px;
+  width: 210px;
+  
+}
+.form1 {  margin-left: auto;
+  margin-right: 0;
+  
+}
+
+
+
+  .footer {
+    font-size: 20px;
+    border: 2px solid #DFDFDF;
+  width: 880px;
+  height: 30px;
+    background:#F7F7F7;
+    display: flex;
+    padding: 10px;
+  border-bottom-left-radius:  5px;
+  border-bottom-right-radius:  5px;
+  position: relative;
+  right: 2px;
+  }
+  .buttons {
+    margin-left: auto; 
+    padding-right: 20px;
+    position: relative;
+    top: 0px;
+  }
